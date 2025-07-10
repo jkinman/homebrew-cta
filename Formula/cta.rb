@@ -1,8 +1,8 @@
 class Cta < Formula
   desc "Cute and fluffy cat animation for when you mistype 'cat'"
   homepage "https://github.com/jkinman/cta"
-  url "https://github.com/jkinman/cta/archive/v1.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  url "https://github.com/jkinman/cta/archive/e9715fa5d9197d4cf5baf66164c32b2ec6d32fc4.tar.gz"
+  sha256 "db8f3084108f0d53fba0382ffdfb61a269320bd1a61d9f5b551650aea35f8f64"
   license "MIT"
   version "1.0"
 
